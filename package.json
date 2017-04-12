@@ -1,0 +1,19 @@
+{
+  "name": "jsonresume-theme-sheerun",
+  "version": "1.0.0",
+  "description": "Theme for JSON Resume",
+  "author": "Adam Stankiewicz",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sheerun/resume"
+  },
+  "scripts": {
+    "start": "resume serve",
+    "build": "resume export public/index --force -f html --theme sheerun"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "^2.0.0-alpha.4",
+    "resume-cli": "0.4.13"
+  }
+}

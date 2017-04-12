@@ -1,0 +1,305 @@
+{
+  "basics": {
+    "name": "Adam Stankiewicz",
+    "label": "Fullstack Freelance Webdeveloper",
+    "picture": "http://i.imgur.com/vbmrEze.jpg",
+    "email": "sheerun@sher.pl",
+    "phone": "+48 517 458 952",
+    "website": "https://sheerun.net",
+    "summary": "I'm enthusiastic full-stack web developer. I dedicate myself fully to all things that I do. I especially enjoy helping others, giving them good development practices. I gain a great deal of satisfaction from helping people to resolve their problems. I learn every day. I'm good with both front-end, back-end development, and light dev-ops. I have special interest in Machine Learning including Natural Language Processing.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "sheerun",
+        "url": "https://github.com/sheerun"
+      },
+      {
+        "network": "Twitter",
+        "username": "sheerun",
+        "url": "https://twitter.com/sheerun"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "astankiewicz",
+        "url": "https://www.linkedin.com/in/astankiewicz"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Ada",
+      "position": "CTO",
+      "website": "http://adaonline.pl/",
+      "startDate": "2016-10-01",
+      "summary": "Ada is AI-powered personal assistant who will help you rent your next apartment. I develop its technology and functionality http://www.adaonline.pl",
+      "highlights": []
+    },
+    {
+      "company": "Freelance",
+      "position": "JavaScript, React, Ruby",
+      "website": "https://sheerun.net/",
+      "startDate": "2015-06-01",
+      "summary": "Creating awesome web & mobile applications in React and Rails- Owning a team of skilled web developers and managing them- Consulting & supporting tech businesses",
+      "highlights": []
+    },
+    {
+      "company": "Pilot: Design and Development Studio",
+      "position": "Senior Web Developer (Ruby & JavaScript)",
+      "website": "https://pilot.co/",
+      "startDate": "2014-12-01",
+      "summary": "Developing web applications in React and Rails",
+      "highlights": []
+    },
+    {
+      "company": "Monterail",
+      "position": "Senior Web Developer (Ruby & JavaScript)",
+      "website": "https://monterail.com/",
+      "startDate": "2011-08-01",
+      "endDate": "2014-08-01",
+      "summary": "Developing web applications in Rails & Angular",
+      "highlights": []
+    },
+    {
+      "company": "e-InPost Sp. z o.o.",
+      "position": "Junior Developer (PHP)",
+      "website": "",
+      "startDate": "2010-07-01",
+      "endDate": "2011-07-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Rails Girls Workshop",
+      "position": "Coach",
+      "website": "http://railsgirls.com/",
+      "startDate": "2012",
+      "endDate": "2014",
+      "summary": "Teaching how to make web applications with Rails in Wrocław.",
+      "highlights": []
+    },
+    {
+      "organization": "Meet.js Wrocław",
+      "position": "Organizer",
+      "website": "https://www.meetup.com/meet-js-wroclaw/",
+      "startDate": "2014-05",
+      "endDate": "2014-10",
+      "summary": "Monthly meetings of JavaScript developers in Wrocław.",
+      "highlights": []
+    },
+    {
+      "organization": "AngularJS Wrocław",
+      "position": "Initiator & organizer",
+      "website": "https://www.meetup.com/AngularJS-Wroc%C5%82aw/",
+      "startDate": "2014-09",
+      "endDate": "ongoing",
+      "summary": "Monthly of AngularJS enthusiasts event in Wrocław.",
+      "highlights": []
+    },
+    {
+      "organization": "Learn IT, Girl!",
+      "position": "Coach",
+      "website": "https://www.learnitgirl.com/",
+      "startDate": "2015",
+      "endDate": "one time",
+      "summary": "Teaching remotely student from Romania how to make web applications.",
+      "highlights": []
+    },
+    {
+      "organization": "Initiator & Organizer",
+      "position": "Initiator & Organizer",
+      "website": "https://www.meetup.com/ReactJS-Wroclaw/",
+      "startDate": "2015-11",
+      "endDate": "ongoing",
+      "summary": "Meetings of ReactJS developers in Wrocław",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Wrocław University of Technology",
+      "area": "Computer Science",
+      "studyType": "Bachelor's degree",
+      "startDate": "2010-01-01",
+      "endDate": "2014-01-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "React",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "React Native",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ruby",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ruby on Rails",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Team Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SCSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Test Driven Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Docker",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Kubernetes",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "User Interface Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AngularJS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Shell",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Neo4j",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ElasticSearch",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Unix",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Go",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Full professional"
+    },
+    {
+      "language": "Polish",
+      "fluency": "Native or bilingual"
+    }
+  ],
+  "interests": [
+    {
+      "name": "open source",
+      "keywords": []
+    },
+    {
+      "name": "functional programming",
+      "keywords": []
+    },
+    {
+      "name": "mathemathics",
+      "keywords": []
+    },
+    {
+      "name": "user experience",
+      "keywords": []
+    },
+    {
+      "name": "machine learning",
+      "keywords": []
+    },
+    {
+      "name": "poylglot programming",
+      "keywords": []
+    }
+  ],
+  "references": [
+    {
+      "name": "Maciej Piasecki, National Coordinator of CLARIN ERIC and CLARIN-PL",
+      "reference": "Adam's diploma was a system for browsing plWordNet, a very large lexico-semantic network (0.5 mln nodes and 1 mln links). He designed an innovating solution based on combination of a relational and graph database. It has been used by many thousands of users for over 2 years. Definitely, it was an outstanding diploma work."
+    },
+    {
+      "name": "Paul Irish, Google Chrome",
+      "reference": "Adam is without a doubt the most influential developer for Bower in the past year. His contributions go beyond \"fundamental\". His initiative and tendency to strive for quality show brightly in his work for the project and its more than half a million regular users"
+    },
+    {
+      "name": "David DeSandro, Twitter",
+      "reference": "With his contributions to Bower open source project over the past year, I've been delighted to work with Adam. He stepped into a messy situation, and did plenty of dirty work to get the project back on track. He's got the technical ability, submitting plenty of quality code revisions. He has a great project management skills, working though issue lists. In short, Adam gets things done."
+    },
+    {
+      "name": "Tymon Tobolski, CTO of Monterail.com",
+      "reference": "Adam is definitely an extraordinary developer that not only has a lot of great ideas but what's even more important the persistence to make them happen. If if wasn't for Adam the rails-assets.org project wouldn't be such a success. He took something that started as an idea into solid product used by many Rails teams around the world.  Adam is a must-have person in any team - you can be sure that when he is around your ideas will not pass unquestioned. Good-enough is never good enough. Adam will always try to dig deeper into a problem and solve it in the best way possible."
+    },
+    {
+      "name": "Szymon Boniecki, Co-owner of Monterail.com",
+      "reference": "Single-hearted problem solver — that’s Adam. He was a core member of our team for 3 years, during that time he set some of our highest and most regarded standards (such as our official guidelines) and processes. Always questioned the status quo and inspired everyone around to do so. He actively consulted in almost all areas of our organization bringing bold opinions and fresh insights. You could always tell if Adam was a part of a project — all stakeholders would notice his through and through decisions and pushing the technical boundaries. He left an immersive footprint on all of us and will be incredibly missed. However we are happy that the open source community has just gained a wholehearted individual and a true expert."
+    },
+    {
+      "name": "Bartosz Pietrzak, Co-Owner of Monterail.com",
+      "reference": "Adam is a responsible and very neatly organized developer.  One of the biggest additional values is his grasp of everything inside and around the development process - be it understanding the business around the software or shaping the development process that suits the project best.  He's been a crucial part of Monterail's progress."
+    },
+    {
+      "name": "Stephen Saine, Ruvixx, Inc.",
+      "reference": "Adam is an expert in several of our key technologies at Ruvixx. He has helped us develop our core architecture with Ruby on Rails and AngularJS and provided invaluable help when we needed it. I would recommend Adam to anyone with a technical challenge at hand. He's always willing to go the extra mile to reach the optimal solution."
+    },
+    {
+      "name": "Adam Hodowany, Ruby and JavaScript developer at Monterail.com",
+      "reference": "Adam is, without doubt, one of the best developers I know. I owe him a lot - he was my mentor in Monterail and he basically introduced me (with success) to the world of Ruby on Rails. His strong engagement in Open Source Projects is the best proof that development is his passion.  If you look for someone who has outstanding knowledge, writes beautiful code and gets things done - that definitely sounds like him."
+    },
+    {
+      "name": "Dominik Porada, designer at Pilot",
+      "reference": "Together with Adam Stankiewicz, we’ve built and shipped multiple apps, including some open-source projects. He’s one of the most clever developers and out-of-the-box thinkers I’ve had the pleasure to work with and learn from.  If you’re looking for a developer with fresh approach to software who can share knowledge and make your company stand out at the open-source field, it would be unwise not to give Adam a shot."
+    }
+  ]
+}
